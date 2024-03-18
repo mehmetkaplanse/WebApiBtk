@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {}
+    "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",

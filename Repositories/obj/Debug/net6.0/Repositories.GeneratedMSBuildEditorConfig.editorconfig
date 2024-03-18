@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Repositories
-build_property.ProjectDir = C:\Users\mehmet\Desktop\mehmet\project\aspnetcoreapi\Applications\bsStoreApp\Repositories\
+build_property.ProjectDir = C:\Users\mehmet\Documents\GitHub\WebApiBtk\Repositories\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

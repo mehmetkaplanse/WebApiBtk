@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Services\\Services.csproj": {}
+    "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
+              "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
+    "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Services\\obj\\",
+        "outputPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Entities\\Entities.csproj"
+              "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\mehmet\\Desktop\\mehmet\\project\\aspnetcoreapi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj"
+              "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -181,6 +181,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
