@@ -164,3 +164,5 @@ C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\obj\Debug\net6.0\ref\WebApi.dl
 C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\bin\Debug\net6.0\nlog.config
 C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\bin\Debug\net6.0\NLog.dll
 C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

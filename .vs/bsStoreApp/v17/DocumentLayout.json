@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F65910-D2AF-4D9C-BCD0-07A72EFFEE38}|WebApi\\WebApi.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F65910-D2AF-4D9C-BCD0-07A72EFFEE38}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F65910-D2AF-4D9C-BCD0-07A72EFFEE38}|WebApi\\WebApi.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\webapi\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F65910-D2AF-4D9C-BCD0-07A72EFFEE38}|WebApi\\WebApi.csproj|solutionrelative:webapi\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C7220-369A-4E33-89B1-6FC0D2EC98E6}|Presentation\\Presentation.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32C7220-369A-4E33-89B1-6FC0D2EC98E6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BB94B3-C88B-4074-A5FA-CD8ED7612A3B}|Services\\Services.csproj|solutionrelative:services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C059CA-AB40-4FC8-ADB4-E343D6DB3510}|Entities\\Entities.csproj|c:\\users\\mehmet\\documents\\github\\webapibtk\\entities\\datatransferobjects\\bookdtoforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C059CA-AB40-4FC8-ADB4-E343D6DB3510}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdtoforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAewEgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:00:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:57:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:56:17.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:44:40.814Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -42,40 +110,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:52:24.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
-              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\ServiceManager.cs",
-              "RelativeToolTip": "Services\\ServiceManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:51:13.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookManager.cs",
               "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\BookManager.cs",
               "RelativeDocumentMoniker": "Services\\BookManager.cs",
               "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Services\\BookManager.cs",
               "RelativeToolTip": "Services\\BookManager.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwDwAAAANAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:44:14.412Z"
+              "WhenOpened": "2024-03-21T01:42:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:38:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDtoForUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
+              "ToolTip": "C:\\Users\\mehmet\\Documents\\GitHub\\WebApiBtk\\Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:50:54.414Z",
+              "EditorCaption": ""
             }
           ]
         },

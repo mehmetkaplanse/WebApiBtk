@@ -10,3 +10,39 @@
 2024-03-14 01:56:25.6700 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
 2024-03-14 01:56:25.6700 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
 2024-03-14 01:56:25.6872 Info Configuration initialized.
+2024-03-18 18:03:50.9929 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 18:03:51.0320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 18:03:51.0502 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-18 18:03:51.0626 Info Configuration initialized.
+2024-03-18 18:05:18.6265 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 18:05:18.6380 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 18:05:18.6380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-18 18:05:18.6556 Info Configuration initialized.
+2024-03-18 18:08:22.0874 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 18:08:22.1337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 18:08:22.1638 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-18 18:08:22.1786 Info Configuration initialized.
+2024-03-18 18:10:17.1817 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 18:10:17.1956 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 18:10:17.1956 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-18 18:10:17.2193 Info Configuration initialized.
+2024-03-18 18:17:15.5669 Info AppDomain Shutting down. LogFactory closing...
+2024-03-18 18:17:15.5802 Info LogFactory has been closed.
+2024-03-18 18:17:25.9165 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 18:17:25.9283 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 18:17:25.9376 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-18 18:17:25.9376 Info Configuration initialized.
+2024-03-18 18:27:50.9765 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 18:27:50.9884 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 18:27:50.9980 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-18 18:27:50.9980 Info Configuration initialized.
+2024-03-20 02:55:32.7492 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-20 02:55:32.7641 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-20 02:55:32.7641 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-20 02:55:32.7831 Info Configuration initialized.
+2024-03-21 14:48:58.6240 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-21 14:48:58.6426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-21 14:48:58.6566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\mehmet\Documents\GitHub\WebApiBtk\WebApi\nlog.config
+2024-03-21 14:48:58.6566 Info Configuration initialized.
+2024-03-21 14:55:52.5606 Info AppDomain Shutting down. LogFactory closing...
+2024-03-21 14:55:52.5843 Info LogFactory has been closed.
